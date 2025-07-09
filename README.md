@@ -1,6 +1,6 @@
 # Terminal Hacker Game 🔐
 
-A simple terminal-based number guessing game written in C. The player takes on the role of a secret agent trying to hack into secure server rooms by solving number puzzles.
+A simple terminal-based number guessing game written in C++. The player takes on the role of a secret agent trying to hack into secure server rooms by solving number puzzles.
 
 ## 🎮 How to Play
 
